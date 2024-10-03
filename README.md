@@ -18,8 +18,8 @@
 
 ## Program
 ```
-Developed by JANARTHANAN V K
-Reg No: 212222230051
+Developed by Jeyabalan T
+Reg No: 212222240040
 
 ```
 ```PYTHON
